@@ -1,0 +1,23 @@
+# Archivos generados por Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+venv/
+.env
+
+# Archivos generados por el programa (se pueden regenerar)
+# Nota: tiempos.csv y speedup_plot.png se incluyen para la entrega
+# animacion_brote.gif se incluye si termina de generarse
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# Windows
+Thumbs.db
+desktop.ini
